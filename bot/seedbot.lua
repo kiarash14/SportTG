@@ -227,28 +227,11 @@ function create_config( )
     "admin",
     "mame"
     },
-    sudo_users = {164985762},--Sudo users
+    sudo_users = {137984481,164985762},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[avast v5 - 
 An advance Administration bot based on avast!
-
-
-
-Our team!
-Arash avast
-Pouya avast
-Silent avast
-Raha avast
-Koohsar avast
-
-Special thanks to:
-iliya vortex
-amirhossien psg
-
-
-Our channels:
-https://telegram.me/avast_team
 ]],
     help_text_realm = [[
 Realm Commands:

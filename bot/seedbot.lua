@@ -225,8 +225,14 @@ function create_config( )
     "all",
     "leave_ban",
     "admin",
-    "mame"
-    "myid"
+    "mame",
+    "myid",
+    "tophoto"
+    "chat",
+    "plugins",
+    "lock_english",
+    "help",
+    "webshot"
     },
     sudo_users = {137984481,164985762},--Sudo users
     disabled_channels = {},

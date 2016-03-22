@@ -227,7 +227,7 @@ function create_config( )
     "admin",
     "mame",
     "myid",
-    "tophoto"
+    "tophoto",
     "chat",
     "plugins",
     "lock_english",

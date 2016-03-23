@@ -234,7 +234,7 @@ function create_config( )
     "help",
     "webshot"
     },
-    sudo_users = {137984481,164985762},--Sudo users
+    sudo_users = {192695150},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[avast v5 - 

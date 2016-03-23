@@ -109,7 +109,7 @@ local function telegram_help()
   text = text..'______________________________'
   text = text..'\n'..'You can use < /helps > for view all items info or can use < /help (name) > for view a item info'
   text = text..'\n'..'For see about Umbrella Bot Team, send < /ver >'
-  text = text..'\n'..'Sudo: @shayansoft Channel: @UmbrellaTeam'
+  text = text..'\n'..'Sudo: @ArianWatch 😁 | Channel: @Sport_Team 😎'
   return text
 end
  

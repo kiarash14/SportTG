@@ -1,4 +1,3 @@
-👑 N E W  PLUGINS 👑, [03.03.16 20:25]
 do
 
 function run(msg, matches)
